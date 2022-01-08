@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = i.alvergne@gmail.com
+	name = Ines Alvergne
